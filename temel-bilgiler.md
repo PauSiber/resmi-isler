@@ -58,7 +58,6 @@ Başvuru ilk önce danışman öğretim görevlisi onayına düşecektir ve sist
 ### Etkinlik yeri
 
 Etkinlk yeri kararına göre eğer bu yer fakültelere bağlı ise fakültenin dekanlığından izin almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir. Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md)
-<a target="_blank" href="/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md"> dsdadas</a>
 
 Etkinlik yeri kongre ve kültür merkezi ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin. [Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx?target=_blank) Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
 
@@ -69,8 +68,16 @@ Etkinlk yeri başka bir kurum/kuruluş ise ilgili biriminden izin almanız gerek
 Başvuruların tamamında danışman öğretim görevlisinin de haberi olması, izin evraklarında imzasının bulunması gerekir.
 
 ### Eğitmen yada Konuşmacı Davet Etmek
+Etkinlik başvurma adımları geçerlidir. Bunlara ek olarak başvuruyu yaparken davet edilen kişinin hangi etkinlik için geldiği, hangi konulara değineceği hakkında bilgi vermeniz gerekir.
+
+Davet edilen kişi şehir dışından uçak ile gelecekse havaalanından karşılama için ihtiyaçlar listesinde uçağa kaçta bineceği, geleceği yer, dönüş için de servis talep edilecekse dönüş için katılımcının alınacağı yer, alınacağı tarih ve saat bilgisi verilmesi gerekir. Kişinin şehir içi ulaşımları okul tarafından karşılanmamaktadır.
+
+Başvuru belgelerine ek olarak katılımcının özgeçmişinin çıktı alınacak belge ile SKS'ye teslim edilmesi gerekir. Belge örneğine [buradan](/katilimci-ozgecmis-ornek.md) ulaşabilirsiniz.
 
 ### Şehir Dışı Seyahat Gerektiren Etkinlik
 
 Şehir dışında yapılan bir etkinliğe katılmak için yada şehir dışında topluluk olarak bir etkinlik yapmak için başvuruya ek olarak başvuruyu yaparken ihtiyaçlar bölümünde okuldan otobüs talebinde bulunmalısınız.
-> Topluluk olarak yılda birkez otobüs kullanma hakkımız bulunmaktadır.
+
+> Topluluk olarak yılda bir kez otobüs kullanma hakkımız bulunmaktadır.
+
+Etkinliğe katılacak kişilerin detaylı bilgilerini liste halinde SKS'ye vermeniz gerekir. Bu bilgiler kimlik numarası, öğrenci numarası, adı ve soyadı vs.dir Detaylı olarak SKS'den öğrenmelisiniz.
