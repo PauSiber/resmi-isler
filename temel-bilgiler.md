@@ -21,7 +21,7 @@ Topluluk ile ilgili;
  - Kapatılması ile ilgili esasları
  - Topluluk ile ilgili belgeler hakkında bilgiye
 
-SKS'nin [Öğrenci Toplulukları Yönergesi](pau.edu.tr/sks/tr/sayfa/ogrenci-topluluklari-yonergesi)'ne bakarak daha detaylı bilgilere ulaşabilirsiniz.
+SKS'nin [Öğrenci Toplulukları Yönergesi](https://www.pau.edu.tr/sks/tr/sayfa/ogrenci-topluluklari-yonergesi)'ne bakarak daha detaylı bilgilere ulaşabilirsiniz.
 
 Topluluğumuzda ise kararlar ortak alınır fakat imza yetkili kişi SKS'de sadece topluluk başkanıdır.
 
@@ -59,7 +59,7 @@ Başvuru ilk önce danışman öğretim görevlisi onayına düşecektir ve sist
 
 Etkinlk yeri kararına göre eğer bu yer fakültelere bağlı ise fakültenin dekanlığından izin almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir. Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/images/etkinlik_dekanlik_izin_dilekcesi.jpg)
 
-Etkinlik yeri kongre ve kültür merkezi ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin. [Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx) Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
+Etkinlik yeri kongre ve kültür merkezi ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin. [Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx?target=_blank) Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
 
 Etkinlik yeri HackerSpace ise Teknokent yönetimine bilgi vermeniz gerekir.
 
