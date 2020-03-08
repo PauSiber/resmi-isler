@@ -57,7 +57,8 @@ Başvuru ilk önce danışman öğretim görevlisi onayına düşecektir ve sist
 
 ### Etkinlik yeri
 
-Etkinlk yeri kararına göre eğer bu yer fakültelere bağlı ise fakültenin dekanlığından izin almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir. Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/images/etkinlik_dekanlik_izin_dilekcesi.jpg)
+Etkinlk yeri kararına göre eğer bu yer fakültelere bağlı ise fakültenin dekanlığından izin almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir. Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md)
+<a target="_blank" href="/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md"> dsdadas</a>
 
 Etkinlik yeri kongre ve kültür merkezi ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin. [Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx?target=_blank) Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
 
@@ -66,3 +67,10 @@ Etkinlik yeri HackerSpace ise Teknokent yönetimine bilgi vermeniz gerekir.
 Etkinlk yeri başka bir kurum/kuruluş ise ilgili biriminden izin almanız gerekir.
 
 Başvuruların tamamında danışman öğretim görevlisinin de haberi olması, izin evraklarında imzasının bulunması gerekir.
+
+### Eğitmen yada Konuşmacı Davet Etmek
+
+### Şehir Dışı Seyahat Gerektiren Etkinlik
+
+Şehir dışında yapılan bir etkinliğe katılmak için yada şehir dışında topluluk olarak bir etkinlik yapmak için başvuruya ek olarak başvuruyu yaparken ihtiyaçlar bölümünde okuldan otobüs talebinde bulunmalısınız.
+> Topluluk olarak yılda birkez otobüs kullanma hakkımız bulunmaktadır.
