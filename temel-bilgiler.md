@@ -1,16 +1,17 @@
-# Temel Bilgiler
+## PauSiber Topluluğu Resmi İş Prosedürleri
 
-Misyon ve vizyonumuz gereği düzenli olarak etkinlik ve eğitim yapmak için can atıyoruz. Fakat arada çoğumuzun bilmediği, aşina olmadığı birçok bürokratik işlemimiz (yazı evrak vs. işler) var. Burada topluluğumuzun görünenin haricinde arka planda etkinliği çıkartana kadar ve etkinliği yaptıktan sonra da bazı yapmamız gerekenleri anlatmaya çalışacağız.
+Misyon ve vizyonumuz gereği düzenli olarak etkinlik ve eğitim yapmak için can atıyoruz. Fakat bu etkinlikleri düzenlerken bir yandan da tüm etkinliği resmiyete dökmemiz gerekiyor. Bu rehberde birçoğumuzun bilmediği etkinlik öncesi ve sonrası bürokratik işlemlerin nasıl gerçekleştirildiğine değineceğiz.
 
-Topluluğumuz okulun rektörlük birimine bağlı olan SKS (Sağlık, Kültür ve Spor Daire Başkanlığı'na) bağlı bir birimdir. Bu yüzden topluluk adına yapılacak işlemler SKS'nin haberi olarak yapılacak işlemlerdir.
+#### SKS
+Topluluğumuz okulun rektörlük birimine bağlı olan SKS'ye *(Sağlık, Kültür ve Spor Daire Başkanlığı)* bağlı bir topluluktur. Bu yüzden topluluk adına yapılan her işlemden SKS'nin de haberi olmalıdır.
 
-Topluluğumuz aynı zamanda mühendislik fakültesi bilgisayar mühendisliğine de bağlıdır. Danışmanımız bilgisayar mühendisliği öğretmenlerinden bir görevli öğretmendir. Yapmak istediğimiz etkinlik ve eğitimler için onun da onayını almamız gerekir.
+#### Danışman Öğretmen
+Topluluğumuz aynı zamanda mühendislik fakültesi bilgisayar mühendisliği bölümüne de bağlıdır. Danışmanımız bilgisayar mühendisliği öğretmenlerinden bir öğretmen olup döneme göre değişiklik gösterebilir.  Yapmak istediğimiz her etkinlik ve her eğitim için onun da onayını almamız gerekir.
 
-Topluluğun var olarak kalabilmesi için SKS de kayıtlı yeterli sayıda kurul üyesinin bulunması gerekir. Mezun olanlar veya topluluktan çıkmalar olduğu dönemlerde bu sayının tamamlanması gerekir. Aksi halde topluluk askıya alınır. Bir sonraki aşamada ise yeterli sayı olmadığı için kapatma kararı verilir. Topluluk SKS tarafından kapatılır.
+#### Yönetim Kurulu
+Topluluğun resmiyette var olabilmesi için SKS de kayıtlı, yeterli sayıda kurul üyesinin bulunması gerekir **(15)**. Kurul üyeleri arasından mezun olma veya topluluktan ayrılmalar olduğu taktirde bu sayının tekrar on beş'e tamamlanması gerekir. Aksi halde topluluk askıya alınır ve bir sonraki aşamada ise yeterli sayı olmadığı gerekçe edilerek SKS tarafından topluluğu kapatma kararı verilir.
 
-#### Yönetim Kurulu ve Genel Kurul
-
-Bu kurullar ile ilgili değişiklikler ve alınan kararlar [Yönetim Katılım Tutanağı](http://d.pau.edu.tr/130b8545), [Genel Kurul Toplantı Tutanağı](http://d.pau.edu.tr/33fb5170) ve [Yönetim Kurulu Toplantı Tutanağı](http://d.pau.edu.tr/553254d3) belgeleri doldurularak SKS'ye bilgilendirilir.
+Kurullar ile ilgili değişiklikler ve alınan kararlar [Yönetim Katılım Tutanağı](http://d.pau.edu.tr/130b8545), [Genel Kurul Toplantı Tutanağı](http://d.pau.edu.tr/33fb5170) ve [Yönetim Kurulu Toplantı Tutanağı](http://d.pau.edu.tr/553254d3) belgeleri doldurularak SKS'ye bilgilendirilir.
 
 Topluluk ile ilgili;
  - Yürütme organlarının ne olduğu ve görevleri
@@ -23,7 +24,7 @@ Topluluk ile ilgili;
 
 SKS'nin [Öğrenci Toplulukları Yönergesi](https://www.pau.edu.tr/sks/tr/sayfa/ogrenci-topluluklari-yonergesi)'ne bakarak daha detaylı bilgilere ulaşabilirsiniz.
 
-Topluluğumuzda ise kararlar ortak alınır fakat imza yetkili kişi SKS'de sadece topluluk başkanıdır.
+Topluluğumuzda kararlar yönetim kurulu tarafından alınır. Topluluk başkanının görevi SKS ile iletişimi sağlamaktır.
 
 # Etkinlik Başvurusu
 
