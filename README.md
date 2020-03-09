@@ -58,6 +58,10 @@ Etkinlik adı, yeri ve tarihi gibi ön hazırlıklar yapıldıktan sonra toplulu
 **5. Danışman öğretmen onayı**
 Başvuru ilk önce danışman öğretmenin onayına ihtiyaç duyar. Etkinlik bu aşamada SKS sisteminde **"danışman onayında"** mesajı ile gözükecektir. Danışman öğretim görevlisinin zaten haberi olduğundan etkinliğinizi onaylayacaktır.
 
+<p align="center">
+  <img alt="img-name" src="/images/danisman-onayinda.jpg">
+</p>
+
 > ***Başvuruyu yaptıktan sonra bildirim gitmediği için etkinliği onaylamasını hatırlatmak amaçıyla danışman öğretim görevlisi ile düzenli olarak iletişim halinde olmanız yararınıza olacaktır.***
 
 **6. SKS onayı**
