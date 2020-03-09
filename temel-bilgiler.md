@@ -68,13 +68,20 @@ Burada etkinliğin onaylanıp onaylanmadığını öğrenmek için sistemi düze
 
 ### Etkinlik yeri
 
-Etkinlk yeri kararına göre eğer bu yer fakültelere bağlı ise fakültenin dekanlığından izin almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir. Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md)
+**1- Fakültelere bağlı etkinlik yerleri**
+Etkinlik yeri fakültelere bağlı ise **fakültenin dekanlığından izin** almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir.
+> **Dilekçe Örneği için [etkinlik yeri dekanlık izin dilekçesi](/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md)**
 
-Etkinlik yeri kongre ve kültür merkezi ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin. [Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx?target=_blank) Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
+**2- Kongre ve kültür merkezi**
+Etkinlik yeri **kongre ve kültür merkezi** ise öncelikle kongre ve kültür merkezindeki salonların etkinlik yapmak istediğiniz tarihte boş olup olmadığını kontrol edin.
+> **[Kontrol etmek için bkz..](https://app.pau.edu.tr/abs/Rezervasyon/SalonEtkinlikTakvim.aspx?target=_blank)**
 
-Etkinlik yeri HackerSpace ise Teknokent yönetimine bilgi vermeniz gerekir.
+Daha sonra etkinlik tarihinden en az **45 gün** önce [etkinlik salon talep](https://app.pau.edu.tr/abs/Rezervasyon/EtkinlikSalonTalepIslemleri.aspx) adresinden başvurunuz. Bu başvuru direk rektörlüğe bağlıdır. Rektörlük onayı alabilmek için yapılacak etkinliğin orada yapılabilecek nitelikte olması gerekir.
 
-Etkinlk yeri başka bir kurum/kuruluş ise ilgili biriminden izin almanız gerekir.
+**3- Pamukkale Teknokent - HackerSpace**
+Etkinlik yeri HackerSpace ise Teknokent yönetimine etkinlik günü saati hakkında bilgi vermeniz gerekir.
+
+>>**Bunların dışında etkinlik yeri başka bir kurum/kuruluş ise ilgili biriminden izin almanız gerekir.**
 
 Başvuruların tamamında danışman öğretim görevlisinin de haberi olması, izin evraklarında imzasının bulunması gerekir.
 
