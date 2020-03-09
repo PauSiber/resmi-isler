@@ -26,35 +26,45 @@ SKS'nin [Öğrenci Toplulukları Yönergesi](https://www.pau.edu.tr/sks/tr/sayfa
 
 Topluluğumuzda kararlar yönetim kurulu tarafından alınır. Topluluk başkanının görevi SKS ile iletişimi sağlamaktır.
 
-# Etkinlik Başvurusu
+## Etkinlik başvuru aşamaları
 
-En temelde bir etkinlik başvurusu nasıl olmalı onun hakkında bilgileri yazacağız farklı etkinlikler için aşağıda daha detaylı bilgiler vereceğiz.
+Etkinliğinin resmiyete dökülmesi için takip etmeniz gereken adımlar aşağıda yer almaktadır.
 
-1. İlk başta etkinliğe bir isim belirlemelisiniz.
+**1. Etkinlik isminin belirlenmesi**
+Bu isim yapılacak tüm başvurularda, yazılı ve görsel ürünlerde kullanılacak isimdir. Bu sebeple belirlenirken dikkat edilmelidir.
 
-> Bu isim yapılacak tüm başvurularda, yazılı ve görsel ürünlerde kullanılacak isimdir. Belirlerken dikkat etmeniz gerekir.
+**2. Etkinlik yerinin belirlenmesi**
+Etkinlik için seçicelek konum okul içinde veya dışında olabilir. Bu tarihe kadar en çok kullanılan etkinlik yerleri:
+- Fakülte Bilgisayar Laboratuvarları
+- Fakülte Konferans Salonları
+- Fakülte Derslikleri
+- Kongre ve Kültür Merkezi
+- Pamukkale Teknokent HackerSpace
+- Diğerleri
 
-2. Etkinlik nerede yapılacak buna karar vermelisiniz.
+> **[Etkinlik yeri hakkında detaylı bilgi.](#etkinlik-yeri)**
 
-> Örneğin;
-> - Fakülte Bilgisayar Laboratuvarları
-> - Fakülte Konferans Salonları
-> - Fakülte Derslikleri
-> - Kongre ve Kültür Merkezi
-> - Teknokent HackerSpace
-> - Diğerleri
+> **[Etkinlik şehir dışında olacak ise bknz.](#şehir-dışı-seyahat-gerektiren-etkinlik)**
 
-[Etkinlik yeri detaylı bilgi](#etkinlik-yeri)
+**3. Danışman öğretmene etkinlik hakkında bilgi verilmesi**
+Yapılacak etkinlik ile alakalı danışman öğretim görevlisine haber verilmeli, etkinlik hakkındaki fikirlerine danışılmalıdır.
 
-3. Yapılacak etkinliği danışman öğretim görevlisine haber verin.
+**4. SKS sitemine başvuru**
+Etkinlik adı, yeri ve tarihi gibi ön hazırlıklar yapıldıktan sonra topluluğun o anki başkanı, verilen kararlar ışığında SKS sitemine online başvuru yapar.
 
-4. Etkinlik adı, yeri ve tarihi gibi ön hazırlıklar yapıldıktan sonra başkan SKS'ye başvurur.
+> **Etkinlik başvurusu yapabilmek için uygun tarih en erken etkinlik tarihinden 2 hafta öncesidir. Aksi halde etkinlik başvurusu yapamazsınız.**
 
-> Etkinlik başvurusu yapabilmek için uygun tarih en erken etkinlik tarihinden 2 hafta öncesidir. Aksi halde etkinlik başvurusu yapamazsınız.
 
-Başvuru ilk önce danışman öğretim görevlisi onayına düşecektir ve sistemde danışman onayında mesajı gözükecektir. Danışman öğretim görevlisinin haberi olduğu için etkinliğinizi onaylayacaktır. Başvuruyu yaptıktan sonra bildirim gitmediği için danışman öğretim görevlisi ile düzenli olarak iletişim halinde olmanız yararınıza olacaktır.
+**5. Danışman öğretmen onayı**
+Başvuru ilk önce danışman öğretmenin onayına ihtiyaç duyar. Etkinlik bu aşamada SKS sisteminde **"danışman onayında"** mesajı ile gözükecektir. Danışman öğretim görevlisinin zaten haberi olduğundan etkinliğinizi onaylayacaktır.
 
-5. Danışman onayladıktan sonra etkinlik SKS onayı düşer, Sizde bir belge sunar, bu belgeyi çıktı alıp SKS'ye bırakmanız gerekir. Daha sonra SKS'nin etkinliği onaylaması beklenir. Burada onaylanıp onaylanmadığını öğrenmek için sistemi düzenli olarak kontrol etmeniz gerekir.
+> ***Başvuruyu yaptıktan sonra bildirim gitmediği için etkinliği onaylamasını hatırlatmak amaçıyla danışman öğretim görevlisi ile düzenli olarak iletişim halinde olmanız yararınıza olacaktır.***
+
+**6. SKS onayı**
+Danışman onayından sonra etkinlik son olarak SKS onayından geçmelidir.
+Danışman onayından sonra SKS sistemi size bir belge sunar, bu belgeyi çıktı alıp SKS'ye bırakmanız gerekir. Daha sonra SKS'nin etkinliği onaylaması beklenir.
+
+Burada etkinliğin onaylanıp onaylanmadığını öğrenmek için sistemi düzenli olarak kontrol edebilirsiniz.
 
 ### Etkinlik yeri
 
