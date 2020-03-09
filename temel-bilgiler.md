@@ -85,7 +85,7 @@ Etkinlik yeri HackerSpace ise Teknokent yönetimine etkinlik günü saati hakkı
 
 Başvuruların tamamında danışman öğretim görevlisinin de haberi olması, izin evraklarında imzasının bulunması gerekir.
 
-### Eğitmen yada Konuşmacı Davet Etmek
+### Eğitmen ya da Konuşmacı Davet Etmek
 Etkinlik başvurma adımları geçerlidir. Bunlara ek olarak başvuruyu yaparken davet edilen kişinin hangi etkinlik için geldiği, hangi konulara değineceği hakkında bilgi vermeniz gerekir.
 
 Davet edilen kişi şehir dışından uçak ile gelecekse havaalanından karşılama için ihtiyaçlar listesinde uçağa kaçta bineceği, geleceği yer, dönüş için de servis talep edilecekse dönüş için katılımcının alınacağı yer, alınacağı tarih ve saat bilgisi verilmesi gerekir. Kişinin şehir içi ulaşımları okul tarafından karşılanmamaktadır.
