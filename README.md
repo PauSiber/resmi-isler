@@ -103,3 +103,15 @@ Başvuru belgelerine ek olarak katılımcının özgeçmişinin çıktı alınac
 > Topluluk olarak yılda bir kez otobüs kullanma hakkımız bulunmaktadır.
 
 Etkinliğe katılacak kişilerin detaylı bilgilerini liste halinde SKS'ye vermeniz gerekir. Bu bilgiler kimlik numarası, öğrenci numarası, adı ve soyadı vs.dir Detaylı olarak SKS'den öğrenmelisiniz.
+
+### Etkinlik için Priz Temin Etmek
+
+Etkinliklerinizde kullanmak için prizleri fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarını bildirmelisiniz.
+
+Daha sonra fakülte sekteri sizi fakülte taşınır kayıt kontrol birimine gönderecektir. Orada gerekli tutanakları doldurduktan sonra prizleri teslim alabilirsiniz. Geri iade ederken eksiksiz teslim etmeniz gerekir.
+
+### Etkinlik için Çay Makinesi Temin Etmek
+
+Etkinliklerinizde kullanmak için çay makinesini fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarını bildirmelisiniz.
+
+Daha sonra fakülte sekteri sizi ilgili birime gönderecektir. Orada gerekli tutanakları doldurduktan sonra çay makinesini teslim alabilirsiniz. Geri iade ederken eksiksiz teslim etmeniz gerekir.
