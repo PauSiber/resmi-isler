@@ -108,9 +108,11 @@ Etkinliğe katılacak kişilerin detaylı bilgilerini liste halinde SKS'ye verme
 
 ### Etkinlik için Priz Temin Etmek
 
-Etkinliklerinizde kullanmak için prizleri fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarını bildirmelisiniz.
+Sınıflarda ve labaratuvarlarda kimi zaman prizler yetersiz kalabiliyor. Bu durumlarda priz ihtiyacını fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçın miktarını bildirmelisiniz.
 
-Daha sonra fakülte sekteri sizi fakülte taşınır kayıt kontrol birimine gönderecektir. Orada gerekli tutanakları doldurduktan sonra prizleri teslim alabilirsiniz. Geri iade ederken eksiksiz teslim etmeniz gerekir.
+Daha sonra fakülte sekteri sizi **fakülte taşınır kayıt kontrol birimine** gönderecektir. Orada gerekli tutanakları doldurduktan sonra prizleri teslim alabilirsiniz. 
+
+Geri iade ederken de alanınan prizler, eksiksiz şekilde teslim edilmelidir.
 
 ### Etkinlik için Çay Makinesi Temin Etmek
 
