@@ -114,6 +114,13 @@ Daha sonra fakülte sekteri sizi **fakülte taşınır kayıt kontrol birimine**
 
 Geri iade ederken de alanınan prizler, eksiksiz şekilde teslim edilmelidir.
 
+`Beklenmedik zamanda gelişen priz ihtiyacı için:`
+
+Bazen uzatma prizine beklenmedik zamanlarda ihtiyaç olabiliyor.
+Bu durumlarda bölüm hocalarından rica edip bölüm envanterinde bulunan prizleri ödüç alabilirsiniz. Ya da kendi içinizde evlerinizde bulunan prizleri getirip ihtiyacı giderebilirsiniz.
+
+> NOT: Bölüm envanterindeki prizleri en son çare olarak kullanmanızda fayda var çünkü etkinlik saatleri genelde akşam saatlerinde olduğundan hocalara ulaşamayabilirsiniz. 
+
 ### Etkinlik için "Çay Makinesi" Temin Etmek
 
 Etkinliklerde kullanmak için çay makinesini fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarınızı bildirmelisiniz. 
