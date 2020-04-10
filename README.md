@@ -106,7 +106,7 @@ Başvuru belgelerine ek olarak katılımcının özgeçmişinin çıktı alınac
 
 Etkinliğe katılacak kişilerin detaylı bilgilerini liste halinde SKS'ye vermeniz gerekir. Bu bilgiler kimlik numarası, öğrenci numarası, adı ve soyadı vs.dir Detaylı olarak SKS'den öğrenmelisiniz.
 
-### Etkinlik için Priz Temin Etmek
+### Etkinlik için "Uzatmalı Priz" Temin Etmek
 
 Sınıflarda ve labaratuvarlarda kimi zaman prizler yetersiz kalabiliyor. Bu durumlarda priz ihtiyacını fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçın miktarını bildirmelisiniz.
 
@@ -114,8 +114,12 @@ Daha sonra fakülte sekteri sizi **fakülte taşınır kayıt kontrol birimine**
 
 Geri iade ederken de alanınan prizler, eksiksiz şekilde teslim edilmelidir.
 
-### Etkinlik için Çay Makinesi Temin Etmek
+### Etkinlik için "Çay Makinesi" Temin Etmek
 
-Etkinliklerinizde kullanmak için çay makinesini fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarını bildirmelisiniz.
+Etkinliklerde kullanmak için çay makinesini fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarınızı bildirmelisiniz. 
 
-Daha sonra fakülte sekteri sizi ilgili birime gönderecektir. Orada gerekli tutanakları doldurduktan sonra çay makinesini teslim alabilirsiniz. Geri iade ederken eksiksiz teslim etmeniz gerekir.
+Daha sonra fakülte sekteri sizi **ilgili birime** gönderecektir. Orada gerekli tutanakları doldurduktan sonra çay makinesini teslim alabilirsiniz. 
+
+Geri iade ederken de alınan malzemeleri eksiksiz şekilde teslim edilmelidir.
+
+> NOT: Çaycı ile birlikte bardak ve karıştırcı da okul tarafından temin edilmekte. Çay, kahve ve çay makinesi için gerekli suyu siz ayarlamalısınız.
