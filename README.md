@@ -130,3 +130,9 @@ Daha sonra fakülte sekteri sizi **ilgili birime** gönderecektir. Orada gerekli
 Geri iade ederken de alınan malzemeleri eksiksiz şekilde teslim edilmelidir.
 
 > NOT: Çaycı ile birlikte bardak ve karıştırcı da okul tarafından temin edilmekte. Çay, kahve ve çay makinesi için gerekli suyu siz ayarlamalısınız.
+
+
+
+
+---
+> **Bu doküman günümüz şartlarına göre hazırlanmıştır. Prosedürlerin değişmesi taktirinde lütfen dokümanı güncelleyiniz.**
