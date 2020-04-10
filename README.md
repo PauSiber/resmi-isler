@@ -68,7 +68,7 @@ Başvuru ilk önce danışman öğretmenin onayına ihtiyaç duyar. Etkinlik bu 
 Danışman onayından sonra etkinlik son olarak SKS onayından geçmelidir.
 Danışman onayından sonra SKS sistemi size bir belge sunar, bu belgeyi çıktı alıp SKS'ye bırakmanız gerekir. Daha sonra SKS'nin etkinliği onaylaması beklenir.
 
-> **SKS çıktı örneği [etkinlik yeri dekanlık izin dilekçesi](/etkinlik-yeri-dekanlik_izin_dilekcesi_ornek.md)**
+> **SKS çıktı [örneği](docs/sks-cikti-ornegi.md)**
 
 Burada etkinliğin onaylanıp onaylanmadığını öğrenmek için sistemi düzenli olarak kontrol edebilirsiniz.
 
