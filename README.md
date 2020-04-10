@@ -106,7 +106,7 @@ Başvuru belgelerine ek olarak katılımcının özgeçmişinin çıktı alınac
 
 Etkinliğe katılacak kişilerin detaylı bilgilerini liste halinde SKS'ye vermeniz gerekir. Bu bilgiler kimlik numarası, öğrenci numarası, adı ve soyadı vs.dir Detaylı olarak SKS'den öğrenmelisiniz.
 
-### Etkinlik için "Uzatmalı Priz" Temin Etmek
+## Etkinlik için "Uzatmalı Priz" Temin Etmek
 
 Sınıflarda ve labaratuvarlarda kimi zaman prizler yetersiz kalabiliyor. Bu durumlarda priz ihtiyacını fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçın miktarını bildirmelisiniz.
 
@@ -121,7 +121,7 @@ Bu durumlarda bölüm hocalarından rica edip bölüm envanterinde bulunan prizl
 
 > NOT: Bölüm envanterindeki prizleri en son çare olarak kullanmanızda fayda var çünkü etkinlik saatleri genelde akşam saatlerinde olduğundan hocalara ulaşamayabilirsiniz. 
 
-### Etkinlik için "Çay Makinesi" Temin Etmek
+## Etkinlik için "Çay Makinesi" Temin Etmek
 
 Etkinliklerde kullanmak için çay makinesini fakülteden temin edebilirsiniz. Bunun için öncelikle fakülte sekreterine haber vermeli ve ihtiyaçlarınızı bildirmelisiniz. 
 
