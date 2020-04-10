@@ -59,7 +59,7 @@ Etkinlik adı, yeri ve tarihi gibi ön hazırlıklar yapıldıktan sonra toplulu
 Başvuru ilk önce danışman öğretmenin onayına ihtiyaç duyar. Etkinlik bu aşamada SKS sisteminde **"danışman onayında"** mesajı ile gözükecektir. Danışman öğretim görevlisinin zaten haberi olduğundan etkinliğinizi onaylayacaktır.
 
 <p align="center">
-  <img alt="img-name" src="/images/danisman-onayinda.jpg">
+  <img alt="img-name" src="images/danisman-onayinda.jpg">
 </p>
 
 > ***Başvuruyu yaptıktan sonra bildirim gitmediği için etkinliği onaylamasını hatırlatmak amaçıyla danışman öğretim görevlisi ile düzenli olarak iletişim halinde olmanız yararınıza olacaktır.***
@@ -70,7 +70,7 @@ Danışman onayından sonra SKS sistemi size bir belge sunar, bu belgeyi çıkt�
 
 Burada etkinliğin onaylanıp onaylanmadığını öğrenmek için sistemi düzenli olarak kontrol edebilirsiniz.
 
-### Etkinlik yeri
+## Etkinlik yeri
 
 **1- Fakültelere bağlı etkinlik yerleri**
 Etkinlik yeri fakültelere bağlı ise **fakültenin dekanlığından izin** almanız gerekir. Dekanlıktan izin almak için ise dekanlığın yazı işleri birimine dilekçe ile başvurmanız gerekir.
@@ -89,14 +89,14 @@ Etkinlik yeri HackerSpace ise Teknokent yönetimine etkinlik günü saati hakkı
 
 Başvuruların tamamında danışman öğretim görevlisinin de haberi olması, izin evraklarında imzasının bulunması gerekir.
 
-### Eğitmen ya da Konuşmacı Davet Etmek
+## Eğitmen ya da Konuşmacı Davet Etmek
 Etkinlik başvurma adımları geçerlidir. Bunlara ek olarak başvuruyu yaparken davet edilen kişinin hangi etkinlik için geldiği, hangi konulara değineceği hakkında bilgi vermeniz gerekir.
 
 Davet edilen kişi şehir dışından uçak ile gelecekse havaalanından karşılama için ihtiyaçlar listesinde uçağa kaçta bineceği, geleceği yer, dönüş için de servis talep edilecekse dönüş için katılımcının alınacağı yer, alınacağı tarih ve saat bilgisi verilmesi gerekir. Kişinin şehir içi ulaşımları okul tarafından karşılanmamaktadır.
 
 Başvuru belgelerine ek olarak katılımcının özgeçmişinin çıktı alınacak belge ile SKS'ye teslim edilmesi gerekir. Belge örneğine [buradan](docs/katilimci-ozgecmis-ornek.md) ulaşabilirsiniz.
 
-### Şehir Dışı Seyahat Gerektiren Etkinlik
+## Şehir Dışı Seyahat Gerektiren Etkinlik
 
 Şehir dışında yapılan bir etkinliğe katılmak için yada şehir dışında topluluk olarak bir etkinlik yapmak için başvuruya ek olarak başvuruyu yaparken ihtiyaçlar bölümünde okuldan otobüs talebinde bulunmalısınız.
 
